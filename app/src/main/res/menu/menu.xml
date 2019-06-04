@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Colors"
+        android:icon="@drawable/colorpalette"
+        android:checkable="true"
+        android:id="@+id/colors"
+        ></item>
+
+    <item android:title="Shade Colors"
+        android:checkable="true"
+        android:icon="@drawable/shadecolors"
+        android:id="@+id/shadecolors"></item>
+
+
+    <item android:title="Developer"
+        android:checkable="true"
+        android:icon="@drawable/developer"
+        android:id="@+id/aboutus"></item>
+
+    <item android:title="Share"
+        android:icon="@drawable/share"
+        android:checkable="true"
+        android:id="@+id/shareit"></item>
+
+    <item android:title="Exit"
+        android:checkable="true"
+        android:icon="@drawable/exit"
+        android:id="@+id/exit"></item>
+</menu>

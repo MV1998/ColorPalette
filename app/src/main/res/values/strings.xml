@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Color Palette Zone</string>
+    <string name="color_zone">Colors</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="get_information">Click</string>
+    <string name="color_name">Color Name:</string>
+    <string name="color_value">Color Value:</string>
+    <string name="rgb_value">RGB Value:</string>
+    <string name="h_s_l_color_value">HSL Value:</string>
+    <string name="hsv_value">HSV Value:</string>
+    <string name="vibrant">Vibrant</string>
+    <string name="vibrant_light">Vibrant Light</string>
+    <string name="vibrant_dark">Vibrant Dark</string>
+    <string name="muted">Muted</string>
+    <string name="muted_light">Muted Light</string>
+    <string name="muted_dark">Muted Dark</string>
+</resources>
